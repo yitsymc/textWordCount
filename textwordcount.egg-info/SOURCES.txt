@@ -1,0 +1,11 @@
+README.md
+setup.py
+tests/__init__.py
+tests/test_functions.py
+textwordcount/__init__.py
+textwordcount/functions.py
+textwordcount.egg-info/PKG-INFO
+textwordcount.egg-info/SOURCES.txt
+textwordcount.egg-info/dependency_links.txt
+textwordcount.egg-info/requires.txt
+textwordcount.egg-info/top_level.txt
